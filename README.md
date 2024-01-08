@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on "Geri" a Geriatric Assistance Robot
 - 🌱 I’m currently learning Tensorflow
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,aws,opencv,java,js,r,ros,arduino,docker,grafana,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,aws,opencv,java,js,r,ros,arduino,docker,grafana,kubernetes,linux)](https://skillicons.dev)
